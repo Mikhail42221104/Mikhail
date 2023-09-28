@@ -1,0 +1,15 @@
+C:\Users\racer\Desktop\pr7\PRo\PRo\bin\Debug\PRo.exe.config
+C:\Users\racer\Desktop\pr7\PRo\PRo\bin\Debug\PRo.exe
+C:\Users\racer\Desktop\pr7\PRo\PRo\bin\Debug\PRo.pdb
+C:\Users\racer\Desktop\pr7\PRo\PRo\obj\Debug\PRo.csproj.AssemblyReference.cache
+C:\Users\racer\Desktop\pr7\PRo\PRo\obj\Debug\MainWindow.g.cs
+C:\Users\racer\Desktop\pr7\PRo\PRo\obj\Debug\App.g.cs
+C:\Users\racer\Desktop\pr7\PRo\PRo\obj\Debug\PRo_MarkupCompile.cache
+C:\Users\racer\Desktop\pr7\PRo\PRo\obj\Debug\PRo_MarkupCompile.lref
+C:\Users\racer\Desktop\pr7\PRo\PRo\obj\Debug\MainWindow.baml
+C:\Users\racer\Desktop\pr7\PRo\PRo\obj\Debug\PRo.g.resources
+C:\Users\racer\Desktop\pr7\PRo\PRo\obj\Debug\PRo.Properties.Resources.resources
+C:\Users\racer\Desktop\pr7\PRo\PRo\obj\Debug\PRo.csproj.GenerateResource.cache
+C:\Users\racer\Desktop\pr7\PRo\PRo\obj\Debug\PRo.csproj.CoreCompileInputs.cache
+C:\Users\racer\Desktop\pr7\PRo\PRo\obj\Debug\PRo.exe
+C:\Users\racer\Desktop\pr7\PRo\PRo\obj\Debug\PRo.pdb
